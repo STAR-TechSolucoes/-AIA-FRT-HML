@@ -1,0 +1,226 @@
+/* Custom Header Styles */
+.navbar-aia {
+    background-color: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px); /* Efeito de vidro moderno */
+    border-bottom: 1px solid #e2e8f0;
+    padding: 0.8rem 0;
+    transition: all 0.3s ease;
+    margin-bottom: 50px;
+}
+
+.navbar-brand img {
+    height: 130px;
+    width: auto;
+}
+
+.nav-link {
+    color: #64748b !important;
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem !important;
+    transition: all 0.2s;
+}
+
+.nav-link:hover, .nav-link.active {
+    color: var(--aia-main) !important;
+}
+
+.nav-link.dropdown-toggle {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.nav-link.dropdown-toggle::after {
+    content: '\F282'; /* bi-chevron-down */
+    font-family: 'bootstrap-icons';
+    font-size: 0.7rem;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+
+/* Botão de Perfil */
+.user-profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px 15px;
+    border-radius: 50px;
+    background: #f1f5f9;
+    cursor: pointer;
+    transition: 0.3s;
+    border: 1px solid transparent;
+}
+
+.user-profile:hover {
+    background: #fff;
+    border-color: var(--aia-main);
+}
+
+.user-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--aia-main);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+.user-info {
+    line-height: 1;
+}
+
+.user-name {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #1e293b;
+}
+
+.user-status {
+    font-size: 0.7rem;
+    color: #94a3b8;
+}
+
+
+/* --- DROPDOWNS MULTINÍVEL AIA --- */
+
+/* Reset de cores para não ficar azul */
+.dropdown-item.active, .dropdown-item:active {
+    background-color: var(--aia-main) !important;
+    color: #fff !important;
+}
+
+/* Menu de Nível 1 e 2 */
+.dropdown-menu {
+    background-color: #ffffff !important;
+    border-radius: 12px !important;
+    border: 1px solid #e2e8f0 !important;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08) !important;
+    padding: 8px !important;
+    min-width: 200px;
+}
+
+.dropdown-item {
+    border-radius: 8px;
+    padding: 8px 15px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #475569 !important; /* Cinza elegante */
+    display: flex;
+    align-items: center;
+    transition: all 0.2s;
+    background: transparent !important;
+}
+
+/* Hover dinâmico: Muda conforme a matéria */
+.dropdown-item:hover {
+    background-color: #f8fafc !important;
+    color: var(--aia-main) !important;
+    padding-left: 20px; /* Efeito de deslize sutil */
+}
+
+/* Lógica do Submenu (3º Nível) */
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%; /* Joga para a direita */
+    margin-top: -8px;
+    margin-left: 2px;
+    display: none;
+}
+/* .dropdown-toggle::after {
+    display: none !important;
+} */
+
+
+/* Abre no Hover para ficar mais fluido */
+.dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+
+/* Seta indicando que tem submenu */
+.dropdown-submenu > .dropdown-item::after {
+    content: '\F285'; /* bi-chevron-right */
+    font-family: 'bootstrap-icons';
+    margin-left: auto;
+    font-size: 0.6rem;
+    opacity: 0.4;
+    display: inline-block;
+}
+
+
+@keyframes fadeInDropdown {
+    from { opacity: 0; transform: translateX(10px); }
+    to { opacity: 1; transform: translateX(0); }
+}
+
+
+/* --- SUB-HEADER DE CONTEXTO (PÁGINAS DE DISCIPLINAS) --- */
+.subject-header {
+    background: #ffffff;
+    padding: 15px 0;
+    border-bottom: 1px solid #edf2f7;
+    margin-bottom: 30px;
+}
+
+.breadcrumb { margin-bottom: 4px; }
+.breadcrumb-item { 
+    font-size: 0.7rem; 
+    font-weight: 700; 
+    text-transform: uppercase; 
+    letter-spacing: 0.8px; 
+}
+.breadcrumb-item a { color: var(--aia-main); text-decoration: none; }
+.breadcrumb-item.active { color: #94a3b8; }
+
+.badge-premium {
+    background: var(--aia-gradient);
+    color: white;
+    font-size: 0.65rem;
+    padding: 5px 12px;
+    border-radius: 50px;
+    font-weight: 700;
+    box-shadow: 0 4px 10px rgba(58, 123, 213, 0.2);
+}
+
+/* --- PERFIL DO USUÁRIO --- */
+.user-profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 4px 12px;
+    border-radius: 50px;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+}
+
+.user-name { font-size: 0.8rem; font-weight: 700; color: #1e293b; display: block; }
+.user-status { font-size: 0.65rem; color: #94a3b8; }
+
+.user-avatar {
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    background: var(--aia-main);
+    color: white;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: bold; font-size: 0.75rem;
+}
+
+@media (max-width: 991px) {
+    .dropdown-submenu > .dropdown-menu {
+        position: static;
+        margin-left: 15px;
+        box-shadow: none !important;
+        border: none !important;
+        background: #f1f5f9 !important;
+    }
+}
