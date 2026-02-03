@@ -273,4 +273,28 @@ body {
   }
 }
 
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 45px;
+}
+.logo {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 45px;
+  color: var(--verde-agua);
+  letter-spacing: 2px;
+}
+
+.logo img {
+  max-width: 140px;
+  width: 100%;
+  height: auto;
+}
+.logo img {
+  filter: brightness(1.2);
+}
+
 
