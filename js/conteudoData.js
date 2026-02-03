@@ -51,10 +51,10 @@ const bancoDadosAIA = {
                     aulas: [
                         { num: "01 e 02", area: "Conjuntos e Funções Elementares", assunto: "Teoria de Conjuntos", 
                             videosAula: [
-                                "https://www.youtube.com/embed/dQw4w9WgXcQ", // Vídeo da bolinha 01
-                                "https://www.youtube.com/embed/9bZkp7q19f0", // Vídeo da bolinha 02
-                                "https://www.youtube.com/embed/2-dYAnOshn0", // Vídeo da bolinha 03
-                                "#", "#", "#", "#", "#", "#", "#"           // ... até completar 10 vídeos
+                                "https://www.youtube.com/embed/dQw4w9WgXcQ", //bolinha 01
+                                "https://www.youtube.com/embed/9bZkp7q19f0", // bolinha 02
+                                "https://www.youtube.com/embed/2-dYAnOshn0", //  bolinha 03
+                                "#", "#", "#", "#", "#", "#", "#"           
                             ], 
                         },
                         { num: "03 e 04", area: "Conjuntos e Funções Elementares", assunto: "Teoria de Conjuntos", video: "https://www.vecteezy.com/free-photos/birds" },
@@ -173,7 +173,7 @@ const bancoDadosAIA = {
                 {
                     nome: "Frente A",
                     aulas: [
-                        { num: "01, 02 e 03", area: "Dinâmica", assunto: "Dinâmica - Introdução", video: "${URL_VIDEO}" },
+                        { num: "01, 02 e 03", area: "Dinâmica", assunto: "Dinâmica - Introdução", video: "https://www.youtube.com/" },
                         { num: "04, 05 e 06", area: "Dinâmica", assunto: "Princípios da Dinâmica", video: "#" },
                         { num: "07, 08, 09 e 10", area: "Dinâmica", assunto: "Leis de Força", video: "#" },
                         { num: "11 e 12", area: "Dinâmica", assunto: "Aplicações das Leis de Newton", video: "#" },

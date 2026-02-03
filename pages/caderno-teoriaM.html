@@ -475,25 +475,51 @@
 <div class="modal fade modal-pdf" id="pdfModal1" tabindex="-1" aria-hidden="true">
     <div class="modal-dialog modal-xl modal-dialog-centered">
         <div class="modal-content shadow-lg">
-            <div class="modal-header align-items-center">
-                <h5 class="modal-title fw-bold"><i class="bi bi-file-pdf text-danger me-2"></i>AIA Material - Frente A</h5>
-                <ul>
-                    <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle active" href="#" data-bs-toggle="dropdown"><i class="bi bi-journal-text me-1"></i> Sumário</a>
-                    <ul class="dropdown-menu border-0 shadow-lg">
-                        <li><a class="dropdown-item" href="#">Dinâmica - Pág 30</a></li>
-                        <li><a class="dropdown-item" href="#">Cinemática - Pág 60</a></li>
-                    </ul>
-                </li>
-                </ul>
+            <div class="modal-header d-flex justify-content-between align-items-center bg-white">
+                <div class="d-flex align-items-center">
+                    <h5 class="modal-title fw-bold mb-0 me-4">
+                        <i class="bi bi-file-pdf text-danger me-2"></i>Frente A
+                    </h5>
+                    
+                    <!-- SUMÁRIO ESTILIZADO -->
+                    <div class="dropdown">
+                        <button class="btn btn-light btn-sm dropdown-toggle fw-bold border" type="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-list-ol me-1"></i> Sumário do Material
+                        </button>
+                        <ul class="dropdown-menu border-0 shadow-lg p-2" style="min-width: 250px;">
+                            <li class="dropdown-header text-uppercase small fw-bold">Navegação Rápida</li>
+                            <li><a class="dropdown-item rounded py-2" href="javascript:void(0)" onclick="pularParaPagina('iframe-pdf-A', '../Telas Para Desenvolvimento de WebSite - AIA.pdf', 12)">
+                                <div class="d-flex justify-content-between">
+                                    <span><i class="bi bi-bookmark-fill me-2 text-primary"></i>Dinâmica</span>
+                                    <span class="badge bg-light text-muted">pág. 12</span>
+                                </div>
+                            </a></li>
+                            <li><a class="dropdown-item rounded py-2" href="javascript:void(0)" onclick="pularParaPagina('iframe-pdf-A', '../Telas Para Desenvolvimento de WebSite - AIA.pdf', 6)">
+                                <div class="d-flex justify-content-between">
+                                    <span><i class="bi bi-bookmark-fill me-2 text-primary"></i>Cinemática</span>
+                                    <span class="badge bg-light text-muted">pág. 6</span>
+                                </div>
+                            </a></li>
+                        </ul>
+                    </div>
+                </div>
+
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
-            <div class="modal-body p-0">
-                <iframe class="pdf-frame-modal" src="../../Telas Para Desenvolvimento de WebSite - AIA.pdf#toolbar=0"></iframe>
+
+            <div class="modal-body p-0 bg-dark">
+                <!-- Adicionei um ID único para o iframe -->
+                <iframe id="iframe-pdf-A" class="pdf-frame-modal" src="../Telas Para Desenvolvimento de WebSite - AIA.pdf#toolbar=0" style="width:100%; height:80vh; border:none;"></iframe>
             </div>
+
             <div class="modal-footer bg-light justify-content-between">
                 <small class="text-muted">AIA Sistema de Ensino © 2026</small>
-                <a href="../../Telas Para Desenvolvimento de WebSite - AIA.pdf" target="_blank" class="btn btn-sm btn-primary rounded-pill px-3">Abrir em tela cheia</a>
+                <div class="d-flex gap-2">
+                    <button class="btn btn-sm btn-outline-secondary rounded-pill px-3" data-bs-dismiss="modal">Fechar</button>
+                    <button type="button" class="btn btn-sm btn-primary rounded-pill px-3" onclick="ativarTelaCheia('pdfModal1')">
+                        <i class="bi bi-arrows-fullscreen me-1"></i> Tela Cheia
+                    </button>
+                </div>
             </div>
         </div>
     </div>

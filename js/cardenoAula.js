@@ -118,7 +118,7 @@ function openExercise(cardId, type, num, fIdx, aIdx) {
     title.innerText = `${type.toUpperCase()} #${num < 10 ? '0'+num : num}`;
     checkbox.checked = currentCircle.classList.contains('done');
 
-    if(type === 'aula') {
+    if(type === 'aula' || type === 'tarefa') {
         const params = new URLSearchParams(window.location.search);
         const disciplina = params.get('disciplina') || 'biologia';
         const volume = params.get('volume') || '1';

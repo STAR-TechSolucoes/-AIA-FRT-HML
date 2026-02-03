@@ -8,8 +8,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 1. APLICAR CORES DINÂMICAS
     document.documentElement.style.setProperty('--aia-main', dados.cor);
+    document.documentElement.style.setProperty('--aia-success', dados.cor + '9A');
     const bgColor = disciplinaKey === 'geografia' ? '#fff9c4' : dados.cor + '9A';
     document.body.style.backgroundColor = bgColor;
+    
 
     // 2. ATUALIZAR HEADER E TÍTULO DA PÁGINA
     document.querySelectorAll('.nome-disciplina-dinamico').forEach(el => {
