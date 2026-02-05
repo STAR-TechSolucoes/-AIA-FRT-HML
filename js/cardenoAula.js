@@ -122,8 +122,14 @@ function openExercise(cardId, type, num, fIdx, aIdx) {
         const params = new URLSearchParams(window.location.search);
         const disciplina = params.get('disciplina') || 'biologia';
         const volume = params.get('volume') || '1';
+        let videoUrl;
         // BUSCA O VÍDEO ESPECÍFICO DA BOLINHA
-        const videoUrl = bancoDadosAIA[disciplina].volumes[volume][fIdx].aulas[aIdx].videosAula[num-1];
+        if (type === 'aula') {
+            videoUrl = bancoDadosAIA[disciplina].volumes[volume][fIdx].aulas[aIdx].videosAula[num-1];
+        }
+        else {
+            videoUrl = bancoDadosAIA[disciplina].volumes[volume][fIdx].aulas[aIdx].videosTarefa[num-1];
+        }
         console.log("Carregando vídeo:", videoUrl);
         
         media.innerHTML = `<div class="video-container"><iframe src="${videoUrl}" frameborder="0" allowfullscreen></iframe></div>`;

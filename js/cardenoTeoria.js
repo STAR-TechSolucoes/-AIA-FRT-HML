@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const safeId = `vid-${fIdx}-${aIdx}`; 
                 
                 // Garante que se não tiver vídeo, ele não quebre
-                const videoUrl = aula.video && aula.video !== "#" ? aula.video : "about:blank";
+                const videoUrl = aula.videoTeoria && aula.videoTeoria !== "#" ? aula.videoTeoria : "about:blank";
 
                 html += `
                 <div class="lesson-card" id="card-${safeId}">
