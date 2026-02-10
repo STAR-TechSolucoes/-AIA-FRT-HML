@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function toggleTeoria(id, url) {
-    console.log("Clicou na aula:", id, "Link:", url); // <--- LOG PARA VOCÊ VER NO F12
+    console.log("Clicou na aula:", id, "Link:", url); 
 
     const content = document.getElementById(`viewer-${id}`);
     const iframe = document.getElementById(`iframe-${id}`);
@@ -65,12 +65,10 @@ function toggleTeoria(id, url) {
     
     const isOpening = content.style.display === 'none';
 
-    // 1. Fecha todos os outros cards antes de abrir o novo
     document.querySelectorAll('.lesson-content').forEach(el => el.style.display = 'none');
     document.querySelectorAll('.lesson-card').forEach(c => c.classList.remove('open'));
     document.querySelectorAll('iframe').forEach(f => f.src = "");
 
-    // 2. Se estiver abrindo, carrega o vídeo
     if (isOpening) {
         content.style.display = 'block';
         card.classList.add('open');

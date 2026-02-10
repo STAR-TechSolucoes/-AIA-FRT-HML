@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                     <div class="lesson-content" id="content-${id}" style="display:none">
                         <div class="inner-padding">
-                            <div id="grid-${id}" class="exercise-grid"></div>
+                            <div id="grid-${id}" class="exercise-grid justify-content-center"></div>
                             <div id="viewer-${id}" class="exercise-viewer">
                                 <div class="d-flex justify-content-between align-items-center mb-3">
                                     <span class="fw-bold" id="v-title-${id}">AULA</span>
@@ -99,6 +99,7 @@ function loadGrid(cardId, type, fIdx, aIdx, btn) {
     for(let i=1; i<=count; i++) {
         let n = i < 10 ? '0'+i : i;
         grid.innerHTML += `<div class="circle" id="ex-${cardId}-${type}-${i}" onclick="openExercise('${cardId}', '${type}', ${i}, ${fIdx}, ${aIdx})">${n}</div>`;
+        if(i % 10 === 0) { grid.innerHTML += `<br>`};
     }
 }
 
