@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 html += `
                 <div class="lesson-card" id="card-${id}">
                     <div class="lesson-header" onclick="toggleCard('${id}', ${fIdx}, ${aIdx})">
-                        <h6 class="fw-bold mb-0" style="color: var(--aia-main); min-width: 80px;">${frente.nome}</h6>
+                        <h6 class="fw-bold mb-0" style="color: var(--aia-main); min-width: 80px; margin-right: 2dvw;">${frente.nome}</h6>
                         <hr class="linhaFrentes">
                         <div style="flex: 1; padding: 0 15px;"> 
                             <h3 class="h6 mb-0 fw-bold">Aula ${aula.num} - ${aula.assunto}</h3>

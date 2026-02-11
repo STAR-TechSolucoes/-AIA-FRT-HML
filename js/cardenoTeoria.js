@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 html += `
                 <div class="lesson-card" id="card-${safeId}">
                     <div class="lesson-header" onclick="toggleTeoria('${safeId}', '${videoUrl}')">
-                        <h6 class="fw-bold mb-0" style="color: var(--aia-main); min-width: 90px;">${frente.nome}</h6>
+                        <h6 class="fw-bold mb-0" style="color: var(--aia-main); min-width: 90px; margin-right: 2dvw;">${frente.nome}</h6>
                         <hr class="linhaFrentes">
                         <div style="flex: 1; padding: 0 20px;"> 
                             <h3 class="h6 mb-0 fw-bold">Aula ${aula.num} - ${aula.assunto}</h3>

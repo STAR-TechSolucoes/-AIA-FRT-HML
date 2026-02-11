@@ -4,21 +4,14 @@ const bancoDadosAIA = {
         "cor": "#784d3e",
         "volumes": {
             "1": [
-                {
-                }
+                {},
+                {},
+                {},
+                {}
             ],
-            "2": [
-                {
-                }
-            ],
-            "3": [
-                {
-                }
-            ],
-            "4": [
-                {
-                }
-            ]
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -27,21 +20,14 @@ const bancoDadosAIA = {
         "cor": "#127335",
         "volumes": {
             "1": [
-                {
-                }
+                {},
+                {},
+                {},
+                {}
             ],
-            "2": [
-                {
-                }
-            ],
-            "3": [
-                {
-                }
-            ],
-            "4": [
-                {
-                }
-            ]
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -57,336 +43,92 @@ const bancoDadosAIA = {
                             "num": "01, 02 e 03",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica - Introdução",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "4",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Princípios da dinâmica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "5",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Princípios da dinâmica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "6",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Princípios da dinâmica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "7",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Leis de força",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "8",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Leis de força",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "9",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Leis de força",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "10",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Leis de força",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "11 e 12",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Aplicações das Leis de Newton",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13 e 14",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Aplicações das Leis de Newton",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "Dinâmica",
                             "assunto": "Dinâmica – Aplicações das Leis de Newton",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
-                }
-            ],
-            "2": [
+                },
                 {
                     "nome": "FRENTE B",
                     "aulas": [
@@ -394,336 +136,92 @@ const bancoDadosAIA = {
                             "num": "1",
                             "area": "Cinemática",
                             "assunto": "Introdução à Cinemática",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "2",
                             "area": "Cinemática",
                             "assunto": "Introdução à Cinemática",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "3",
                             "area": "Cinemática",
                             "assunto": "Cinemática escalar: velocidade e movimento uniforme",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "4 e 5",
                             "area": "Cinemática",
                             "assunto": "Cinemática escalar: velocidade e movimento uniforme",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "6",
                             "area": "Cinemática",
                             "assunto": "Cinemática escalar: aceleração e movimento uniformemente variado",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "7 e 8",
                             "area": "Cinemática",
                             "assunto": "Cinemática escalar: aceleração e movimento uniformemente variado",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "9 e 10",
                             "area": "Cinemática",
                             "assunto": "Cinemática escalar: movimento de queda livre",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "11",
                             "area": "Cinemática",
                             "assunto": "Cinemática escalar: movimento de queda livre",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "12 e 13",
                             "area": "Cinemática",
                             "assunto": "Movimentos bidimensionais",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "14",
                             "area": "Cinemática",
                             "assunto": "Movimentos bidimensionais",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "Cinemática",
                             "assunto": "Movimentos bidimensionais",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
-                }
-            ],
-            "3": [
+                },
                 {
                     "nome": "FRENTE C",
                     "aulas": [
@@ -731,275 +229,80 @@ const bancoDadosAIA = {
                             "num": "1",
                             "area": "Óptica Geométrica",
                             "assunto": "Introdução a Óptica Geométrica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "2",
                             "area": "Óptica Geométrica",
                             "assunto": "Introdução a Óptica Geométrica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "3, 4, 5 e 6",
                             "area": "Óptica Geométrica",
                             "assunto": "Introdução a Óptica Geométrica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "7 e 8",
                             "area": "Óptica Geométrica",
                             "assunto": "Refração da luz",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "9",
                             "area": "Óptica Geométrica",
                             "assunto": "Refração da luz",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "10 e 11",
                             "area": "Óptica Geométrica",
                             "assunto": "Refração da luz",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "12 e 13",
                             "area": "Óptica Geométrica",
                             "assunto": "Espelhos esféricos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "14",
                             "area": "Óptica Geométrica",
                             "assunto": "Espelhos esféricos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "Óptica Geométrica",
                             "assunto": "Lentes esféricas",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
                 }
-            ]
+            ],
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -1015,216 +318,60 @@ const bancoDadosAIA = {
                             "num": "01 e 02",
                             "area": "Átomos e Elementos",
                             "assunto": "Modelos Atômicos I",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "03 e 04",
                             "area": "Átomos e Elementos",
                             "assunto": "Modelos Atômicos II",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "05 e 06",
                             "area": "Átomos e Elementos",
                             "assunto": "O átomo atual e distribuição eletrônica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "07 e 08",
                             "area": "Átomos e Elementos",
                             "assunto": "Elementos, isótopos e isóbaros",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "09 e 10",
                             "area": "Átomos e Elementos",
                             "assunto": "Tabela Periódica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "11 e 12",
                             "area": "Ligações Químicas",
                             "assunto": "Propriedades da Tabela Periódica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13, 14, 15 e 16",
                             "area": "Ligações Químicas",
                             "assunto": "Ligações iônicas",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
-                }
-            ],
-            "2": [
+                },
                 {
                     "nome": "FRENTE B",
                     "aulas": [
@@ -1232,186 +379,52 @@ const bancoDadosAIA = {
                             "num": "01 e 02",
                             "area": "Substâncias puras e misturas",
                             "assunto": "Introdução à química e o método científico",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "03 e 04",
                             "area": "Substâncias puras e misturas",
                             "assunto": "Propriedades da Matéria",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "05, 06, 07 e 08",
                             "area": "Substâncias puras e misturas",
                             "assunto": "Misturas e Técnicas de Separação",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "09 e 10",
                             "area": "Substâncias puras e misturas",
                             "assunto": "Suspensão, colóides e tratamento de água",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "11, 12, 13 e 14",
                             "area": "Solução",
                             "assunto": "Solução",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "Solução",
                             "assunto": "Diluição e mistura de soluções",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
-                }
-            ],
-            "3": [
+                },
                 {
                     "nome": "FRENTE C",
                     "aulas": [
@@ -1419,215 +432,64 @@ const bancoDadosAIA = {
                             "num": "1",
                             "area": "Mol",
                             "assunto": "Massa atômica, massa molecular e massa molar",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "02 e 03",
                             "area": "Mol",
                             "assunto": "Constante de Avogadro e Fórmula mínima",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "04 e 05",
                             "area": "Mol",
                             "assunto": "Reações químicas e leis ponderais",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "06 e 07",
                             "area": "Estequiometria",
                             "assunto": "Balanceamento e equações químicas",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "08, 09, 10 e 11",
                             "area": "Estequiometria",
                             "assunto": "Cálculos estequiométricos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "12, 13 e 14",
                             "area": "Estequiometria",
                             "assunto": "Rendimento e reagentes impuros",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "Estequiometria",
                             "assunto": "Reagentes em excesso e limitantes",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
                 }
-            ]
+            ],
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -1643,246 +505,68 @@ const bancoDadosAIA = {
                             "num": "01 e 02",
                             "area": "Conjuntos e Funções Elementares",
                             "assunto": "Teoria de Conjuntos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "03 e 04",
                             "area": "Conjuntos e Funções Elementares",
                             "assunto": "Teoria de Conjuntos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "05 e 06",
                             "area": "Conjuntos e Funções Elementares",
                             "assunto": "Conjuntos Numéricos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "07 e 08",
                             "area": "Conjuntos e Funções Elementares",
                             "assunto": "Funções",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "09 e 10",
                             "area": "Conjuntos e Funções Elementares",
                             "assunto": "Funções",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "11 e 12",
                             "area": "Conjuntos e Funções Elementares",
                             "assunto": "Função Afim ou do Primeiro Grau",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13 e 14",
                             "area": "Conjuntos e Funções Elementares",
                             "assunto": "Função Quadrática ou do Segundo Grau",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "Conjuntos e Funções Elementares",
                             "assunto": "Função Afim e Função Quadrática",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
-                }
-            ],
-            "2": [
+                },
                 {
                     "nome": "FRENTE B",
                     "aulas": [
@@ -1890,246 +574,68 @@ const bancoDadosAIA = {
                             "num": "1 e 2",
                             "area": "Potenciação",
                             "assunto": "Potenciação e Radiciação",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "3 e 4",
                             "area": "Proporção e Regra de Três",
                             "assunto": "Grandezas Proporcionais",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "5 e 6",
                             "area": "Proporção e Regra de Três",
                             "assunto": "Regra de Três Simples e Composta",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "7 e 8",
                             "area": "Porcentagem",
                             "assunto": "Porcentagem e Variações",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "9 e 10",
                             "area": "Juros",
                             "assunto": "Juros Simples e Compostos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "11 e 12",
                             "area": "Juros",
                             "assunto": "Matemática Financeira",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13 e 14",
                             "area": "Estatística",
                             "assunto": "Estatística - Medidas de Tendência Central",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "Estatística",
                             "assunto": "Estatística - Medidas de dispersão",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
-                }
-            ],
-            "3": [
+                },
                 {
                     "nome": "FRENTE C",
                     "aulas": [
@@ -2137,245 +643,72 @@ const bancoDadosAIA = {
                             "num": "1 e 2",
                             "area": "Noções Primitivas, Triângulos e Paralelismo",
                             "assunto": "Introdução à Geometria Plana",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "3 e 4",
                             "area": "Noções Primitivas, Triângulos e Paralelismo",
                             "assunto": "Noções Elementares de Triângulos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "5 e 6",
                             "area": "Noções Primitivas, Triângulos e Paralelismo",
                             "assunto": "Ângulos no Triângulo",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "7 e 8",
                             "area": "Polígonos e Quadriláteros",
                             "assunto": "Polígonos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "9 e 10",
                             "area": "Polígonos e Quadriláteros",
                             "assunto": "Quadriláteros",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "11 e 12",
                             "area": "Teorema de Tales, Semelhança e Triângulos Retângulos",
                             "assunto": "Teorema de Tales e da Bissetriz",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13 e 14",
                             "area": "Teorema de Tales, Semelhança e Triângulos Retângulos",
                             "assunto": "Semelhança de Triângulos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "Teorema de Tales, Semelhança e Triângulos Retângulos",
                             "assunto": "Relações Métricas no Triângulo Retângulo",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
                 }
-            ]
+            ],
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -2391,185 +724,56 @@ const bancoDadosAIA = {
                             "num": "1 e 2",
                             "area": "Introdução aos Estudos Literários I e II",
                             "assunto": "Teoria Literária I e II",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "3 e 4",
                             "area": "Trovadorismo",
                             "assunto": "Origens da Literatura Portuguesa",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "5, 6, 7 e 8",
                             "area": "Trovadorismo",
                             "assunto": "Prosa Medieval e Trovadorismo (Características Gerais)",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "9 e 10",
                             "area": "Humanismo",
                             "assunto": "Humanismo (Contexto Histórico e Características Gerais)",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "11 e 12",
                             "area": "Humanismo",
                             "assunto": "Humanismo (Prosa Historiográfica e Poesia Palaciana)",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13, 14, 15 e 16",
                             "area": "Humanismo",
                             "assunto": "Humanismo",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
                 }
-            ]
+            ],
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -2585,215 +789,64 @@ const bancoDadosAIA = {
                             "num": "1",
                             "area": "LÍNGUA E LINGUAGEM",
                             "assunto": "Conhecendo as Origens da Língua Portuguesa",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "2 e 3",
                             "area": "VARIAÇÃO LINGUÍSTICA",
                             "assunto": "Variação Linguística e Preconceito Linguístico",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "4, 5 e 6",
                             "area": "FUNÇÕES DA LINGUAGEM",
                             "assunto": "Conhecendo as Funções da Linguagem da Língua Portuguesa",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "7",
                             "area": "ESTRUTURA DAS PALAVRAS",
                             "assunto": "Estrutura das palavras",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "8 e 9",
                             "area": "ESTRUTURA DAS PALAVRAS",
                             "assunto": "Processo de Formação de Palavras",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "10, 11 e 12",
                             "area": "SUBSTANTIVOS E ADJETIVOS",
                             "assunto": "Substantivos e Adjetivos",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13, 14, 15 e 16",
                             "area": "ARTIGO, NUMERAL E PRONOME",
                             "assunto": "Artigo, Numeral e Pronome",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
                 }
-            ]
+            ],
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -2809,215 +862,64 @@ const bancoDadosAIA = {
                             "num": "01 e 02",
                             "area": "Fundamentos da Sociologia",
                             "assunto": "Origem da Sociologia",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "3",
                             "area": "Fundamentos da Sociologia",
                             "assunto": "Origem da Sociologia",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "4",
                             "area": "Fundamentos da Sociologia",
                             "assunto": "Escola Francesa de Sociologia",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "5",
                             "area": "Fundamentos da Sociologia",
                             "assunto": "Suicídio e Introdução a Escola Alemã de Sociologia",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "6",
                             "area": "Fundamentos da Sociologia",
                             "assunto": "Escola Alemã de Sociologia",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "7",
                             "area": "Fundamentos da Sociologia",
                             "assunto": "Ética protestante e o Espírito do Capitalismo – Introdução a Escola Marxista (Luta de Classes)",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "8",
                             "area": "Fundamentos da Sociologia",
                             "assunto": "Escola Marxista: metodologia, motor da história, alienação e mais-valia",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
                 }
-            ]
+            ],
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -3033,246 +935,68 @@ const bancoDadosAIA = {
                             "num": "01 e 02",
                             "area": "CARTOGRAFIA",
                             "assunto": "Os Movimentos da Terra, As Coordenadas Geográficas e Fuso Horário",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "03",
                             "area": "CARTOGRAFIA",
                             "assunto": "Projeções Cartográficas",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "04 e 05",
                             "area": "CARTOGRAFIA",
                             "assunto": "As convenções cartográficas, o uso da escala nos mapas, o sensoriamento remoto na cartografia digital.",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "06 e 07",
                             "area": "Geologia e Mineração",
                             "assunto": "A Histórica Geológica da Terra, As Teorias do Tempo Geológico",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "08 e 09",
                             "area": "Geologia e Mineração",
                             "assunto": "O Ciclo das Rochas, A Estrutura Geológica Mundial e do Brasil",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "10, 11 e 12",
                             "area": "Geologia e Mineração",
                             "assunto": "As Principais Jazidas de Minerais Metálicos do Brasil, Os impactos socioambientais da Mineração.",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13 e 14",
                             "area": "GEOMORFOLOGIA",
                             "assunto": "Agentes Formadores e Modeladores do Relevo, os Tipos de Intemperismo, as Unidades e Formas do Relevo Brasileiro.",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "GEOMORFOLOGIA",
                             "assunto": "Relevo Mundial e Relevo Submarino",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
-                }
-            ],
-            "2": [
+                },
                 {
                     "nome": "FRENTE B",
                     "aulas": [
@@ -3280,215 +1004,64 @@ const bancoDadosAIA = {
                             "num": "04 e 05",
                             "area": "GEOPOLÍTICA E ECONOMIA",
                             "assunto": "FASES DO CAPITALISMO E EXPANSÃO",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "06 e 07",
                             "area": "GEOPOLÍTICA E ECONOMIA",
                             "assunto": "DIVISÃO INTERNACIONAL DO TRABALHO (DIT) E NOVA DIVISÃO INTERNACIONAL DO TRABALHO (NOVA DIT).",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "08 e 09",
                             "area": "GEOPOLÍTICA E ECONOMIA",
                             "assunto": "GUERRA FRIA: ORIGENS, DISPUTAS E IMPACTOS GEOPOLÍTICOS (1945-1991).",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "10 e 11",
                             "area": "GEOPOLÍTICA E ECONOMIA",
                             "assunto": "A NOVA ORDEM MUNDIAL: TRANSFORMAÇÕES, PODER, INDICES ECONÔMICOS E DESIGUALDADES NO SISTEMA INTERNACIONAL.",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "12",
                             "area": "GEOPOLÍTICA E ECONOMIA",
                             "assunto": "ORGANIZAÇÕES INTERNACIONAIS: GOVERNANÇA GLOBAL, PODER E LIMITES NA ORDEM MUNDIAL CONTEMPORÂNEA",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "13 e 14",
                             "area": "GEOPOLÍTICA E ECONOMIA",
                             "assunto": "GLOBALIZAÇÃO: FORMAÇÃO HISTÓRICA, TRANSFORMAÇÕES E DESIGUALDADES NO ESPAÇO MUNDIAL",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "15 e 16",
                             "area": "GEOPOLÍTICA E ECONOMIA",
                             "assunto": "FORMAÇÃO DOS BLOCOS ECONÔMICOS: INTEGRAÇÃO REGIONAL, INTERESSES E DESIGUALDADES NO SISTEMA MUNDIAL.",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
                 }
-            ]
+            ],
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -3504,155 +1077,48 @@ const bancoDadosAIA = {
                             "num": "01 e 02",
                             "area": "Origem da filosofia",
                             "assunto": "Origem da filosofia",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "3",
                             "area": "Filosofia Socrática",
                             "assunto": "Filosofia Socrática",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "04 e 05",
                             "area": "Filosofia Clássica",
                             "assunto": "Platão",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "06 e 07",
                             "area": "Filosofia Clássica",
                             "assunto": "Filosofia Aristotélica",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         },
                         {
                             "num": "8",
                             "area": "Filosofia Helenística",
                             "assunto": "Helenismo",
-                            "videosAula": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
-                            "videosTarefa": [
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#",
-                                "#"
-                            ],
+                            "videosAula": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
+                            "videosTarefa": ["#", "#", "#", "#", "#", "#", "#", "#", "#", "#"],
                             "videoTeoria": "#"
                         }
                     ]
                 }
-            ]
+            ],
+            "2": [],
+            "3": [],
+            "4": []
         }
     },
 
@@ -3664,140 +1130,49 @@ const bancoDadosAIA = {
                     {
                     nome:"Frente Única",
                     aulas:[
-                    {num:"01 e 02",area:"Pronomes",assunto:"Pronomes",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"03 e 04",area:"There to be",assunto:"There to be",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"05 e 06",area:"Nouns",assunto:"Nouns e Genitive Case",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"07 e 08",area:"Simple Present",assunto:"Simple Present tense",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"09 e 10",area:"Simple Past",assunto:"Simple Past tense",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"11, 12, 13",area:"Continuous",assunto:"Present Continuous x Past Continuous",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"14, 15, 16",area:"Future",assunto:"Future Tense",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    }
+                    {num:"01 e 02",area:"Pronomes",assunto:"Pronomes", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"03 e 04",area:"There to be",assunto:"There to be", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"05 e 06",area:"Nouns",assunto:"Nouns e Genitive Case", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"07 e 08",area:"Simple Present",assunto:"Simple Present tense", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"09 e 10",area:"Simple Past",assunto:"Simple Past tense", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"11, 12, 13",area:"Continuous",assunto:"Present Continuous x Past Continuous", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"14, 15, 16",area:"Future",assunto:"Future Tense", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"}
                     ]
-                    }
-                    ],
-                2:[
+                    },
                     {
                     nome:"Frente Única",
                     aulas:[
-                    {num:"01, 02, 03",area:"Perfect Tense",assunto:"Present Perfect x Past Perfect",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"04 e 05",area:"Modal Verbs",assunto:"Modal Verbs",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"06, 07, 08",area:"Relative Pronouns",assunto:"Relative Pronouns",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"09 e 10",area:"Comparatives",assunto:"Comparisons Adjectives",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"11 e 12",area:"Question Tags",assunto:"Question Tags",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"13, 14, 15, 16",area:"Conectores",assunto:"Conjunções e conectores",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    }
+                    {num:"01, 02, 03",area:"Perfect Tense",assunto:"Present Perfect x Past Perfect", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"04 e 05",area:"Modal Verbs",assunto:"Modal Verbs", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"06, 07, 08",area:"Relative Pronouns",assunto:"Relative Pronouns", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"09 e 10",area:"Comparatives",assunto:"Comparisons Adjectives", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"11 e 12",area:"Question Tags",assunto:"Question Tags", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"13, 14, 15, 16",area:"Conectores",assunto:"Conjunções e conectores", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"}
                     ]
-                    }
-                    ],
-                3:[
+                    },
                     {
                     nome:"Frente Única",
                     aulas:[
-                    {num:"01 e 02",area:"Vocabulary",assunto:"Sufixos e Prefixos",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"03 e 04",area:"If Clauses",assunto:"If Clauses",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"05 e 06",area:"Preposições",assunto:"Preposições",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"07, 08, 09",area:"Gerúndio",assunto:"Gerúndio e Infinitivo",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"10, 11, 12, 13, 14",area:"Reading",assunto:"Estratégias de leitura e interpretação",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    }
+                    {num:"01 e 02",area:"Vocabulary",assunto:"Sufixos e Prefixos", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"03 e 04",area:"If Clauses",assunto:"If Clauses", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"05 e 06",area:"Preposições",assunto:"Preposições", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"07, 08, 09",area:"Gerúndio",assunto:"Gerúndio e Infinitivo", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"10, 11, 12, 13, 14",area:"Reading",assunto:"Estratégias de leitura e interpretação", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"}
                     ]
-                    }
-                    ],
-                4:[
+                    },
                     {
                     nome:"Frente Única",
                     aulas:[
-                    {num:"01, 02, 03",area:"Passive Voice",assunto:"Passive Voice",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"04, 05, 06",area:"Vocabulary",assunto:"Phrasal Verbs / False Cognates",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"07 e 08",area:"Reported Speech",assunto:"Reported Speech",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
-                    },
-                    {num:"09, 10, 11, 12, 13, 14",area:"Reading",assunto:"Estratégias de leitura e interpretação",
-                        videosAula:["#","#","#","#","#","#","#","#","#","#"],
-                        videosTarefa:["#","#","#","#","#","#","#","#","#","#"],
-                        videoTeoria:"#"
+                    {num:"01, 02, 03",area:"Passive Voice",assunto:"Passive Voice", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"04, 05, 06",area:"Vocabulary",assunto:"Phrasal Verbs / False Cognates", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"07 e 08",area:"Reported Speech",assunto:"Reported Speech", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"},
+                    {num:"09, 10, 11, 12, 13, 14",area:"Reading",assunto:"Estratégias de leitura e interpretação", videosAula:["#","#","#","#","#","#","#","#","#","#"], videosTarefa:["#","#","#","#","#","#","#","#","#","#"], videoTeoria:"#"}
+                    ]
                     }
-                    ]
-                }
-                    ]
+                ],
+                2:[],
+                3:[],
+                4:[]
             }
         },
 
@@ -3820,9 +1195,7 @@ const bancoDadosAIA = {
                         {num:"13 e 14",area:"Crônica Argumentativa",assunto:"Crônica Argumentativa – especificidades do gênero",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
                         {num:"15 e 16",area:"Jornalismo contemporâneo",assunto:"Jornalismo contemporâneo – Podcast e videocast – revisão e repertório",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"}
                     ]
-                    }
-                ],
-                2:[
+                    },
                     {
                     nome:"Frente Única",
                     aulas:[
@@ -3837,25 +1210,21 @@ const bancoDadosAIA = {
                         {num:"14",area:"Correção",assunto:"Importância de se conhecer as grades de correção dos vestibulares",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
                         {num:"15 e 16",area:"Introdução",assunto:"Parágrafo de introdução e tese nas diferentes bancas de vestibular",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"}
                     ]
-                    }
-                ],
-                3:[
-                {
-                nome:"Frente Única",
-                aulas:[
-                    {num:"01",area:"Desenvolvimento",assunto:"Parágrafo de desenvolvimento – microestrutura",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
-                    {num:"02 e 03",area:"Repertório",assunto:"Tipos de repertório de fundamentação",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
-                    {num:"04",area:"Análise",assunto:"Análise conclusiva do parágrafo de desenvolvimento",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
-                    {num:"05",area:"Conclusão",assunto:"Parágrafo de conclusão por síntese – microestrutura",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
-                    {num:"06 e 07",area:"Intervenção",assunto:"Proposta de intervenção",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
-                    {num:"08 e 09",area:"Repertório sociocultural",assunto:"Tipos de repertório sociocultural: repertório pessoal e repertório da prova de redação",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
-                    {num:"10",area:"Importância",assunto:"Importância do repertório sociocultural",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
-                    {num:"11 e 12",area:"Relevância",assunto:"Relevância, pertinência e produtividade do repertório sociocultural",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
-                    {num:"13 e 14",area:"Repertório externo",assunto:"Tipos de repertório sociocultural: repertório externo à prova e legitimado",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"}
-                    ]
-                }
-                ],
-                4:[
+                    },
+                    {
+                    nome:"Frente Única",
+                    aulas:[
+                        {num:"01",area:"Desenvolvimento",assunto:"Parágrafo de desenvolvimento – microestrutura",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
+                        {num:"02 e 03",area:"Repertório",assunto:"Tipos de repertório de fundamentação",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
+                        {num:"04",area:"Análise",assunto:"Análise conclusiva do parágrafo de desenvolvimento",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
+                        {num:"05",area:"Conclusão",assunto:"Parágrafo de conclusão por síntese – microestrutura",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
+                        {num:"06 e 07",area:"Intervenção",assunto:"Proposta de intervenção",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
+                        {num:"08 e 09",area:"Repertório sociocultural",assunto:"Tipos de repertório sociocultural: repertório pessoal e repertório da prova de redação",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
+                        {num:"10",area:"Importância",assunto:"Importância do repertório sociocultural",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
+                        {num:"11 e 12",area:"Relevância",assunto:"Relevância, pertinência e produtividade do repertório sociocultural",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"},
+                        {num:"13 e 14",area:"Repertório externo",assunto:"Tipos de repertório sociocultural: repertório externo à prova e legitimado",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"}
+                        ]
+                    },
                     {
                     nome:"Frente Única",
                     aulas:[
@@ -3868,10 +1237,14 @@ const bancoDadosAIA = {
                         {num:"13 e 14",area:"Conclusão prática",assunto:"Produção de dissertação – conclusão por síntese e conclusão propositiva – diferentes bancas",videosAula:["#","#","#","#","#","#","#","#","#","#"],videosTarefa:["#","#","#","#","#","#","#","#","#","#"],videoTeoria:"#"}
                         ]
                     }
-                ]
+                ],
+                2:[],
+                3:[],
+                4:[]
         }
     }
 }
+
 
 const bancoEstudosAvancados = {
     matematica: {
