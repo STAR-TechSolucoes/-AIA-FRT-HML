@@ -528,6 +528,33 @@
 <!-- Scripts -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="../js/conteudoData.js"></script>
+<script>
+document.querySelectorAll('.dropdown, .dropdown-submenu').forEach(function(element) {
+    let timeout;
+    
+    element.addEventListener('mouseenter', function() {
+        // Limpa qualquer timer de fechar se o usuário voltar rápido
+        clearTimeout(timeout);
+        
+        // Encontra o menu específico deste item
+        let menu = element.querySelector(':scope > .dropdown-menu');
+        if (menu) {
+            menu.classList.add('show');
+        }
+    });
+
+    element.addEventListener('mouseleave', function() {
+        let menu = element.querySelector(':scope > .dropdown-menu');
+        
+        // Define um tempo de 300ms antes de fechar
+        timeout = setTimeout(function() {
+            if (menu) {
+                menu.classList.remove('show');
+            }
+        }, 300); // 300ms é o tempo ideal para ser fluido mas não lento
+    });
+});
+</script>
 
 </body>
 </html>

@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="../css/header.css">
     <script src="../js/dinamicaCores.js"></script>
 </head>
+
 <body>
 <!-- HEADER -->
  <nav class="navbar navbar-expand-lg navbar-aia sticky-top">
@@ -385,6 +386,33 @@
 <script src="../js/conteudoData.js"></script>
 <script src="../js/dinamicaCores.js"></script>
 <script src="../js/cardenoAula.js"></script>
+<script>
+document.querySelectorAll('.dropdown, .dropdown-submenu').forEach(function(element) {
+    let timeout;
+    
+    element.addEventListener('mouseenter', function() {
+        // Limpa qualquer timer de fechar se o usuário voltar rápido
+        clearTimeout(timeout);
+        
+        // Encontra o menu específico deste item
+        let menu = element.querySelector(':scope > .dropdown-menu');
+        if (menu) {
+            menu.classList.add('show');
+        }
+    });
+
+    element.addEventListener('mouseleave', function() {
+        let menu = element.querySelector(':scope > .dropdown-menu');
+        
+        // Define um tempo de 300ms antes de fechar
+        timeout = setTimeout(function() {
+            if (menu) {
+                menu.classList.remove('show');
+            }
+        }, 300); // 300ms é o tempo ideal para ser fluido mas não lento
+    });
+});
+</script>
 
 
 </body>

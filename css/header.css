@@ -146,6 +146,33 @@
 .dropdown-submenu:hover > .dropdown-menu {
     display: block;
 }
+.navbar-nav .dropdown-menu {
+    margin-top: 0; /* Evita buracos entre o botão e o menu */
+}
+
+
+.dropdown-submenu > .dropdown-menu::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -20px; /* Estende a área de hover para a esquerda */
+    width: 25px;  /* Largura da ponte */
+    height: 100%;
+    display: block;
+    z-index: -1;
+}
+
+.dropdown-menu.show, 
+.dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+    animation: fadeInDropdown 0.2s ease-out;
+}
+
+@keyframes fadeInDropdown {
+    from { opacity: 0; transform: translateY(5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
 
 /* Seta indicando que tem submenu */
 .dropdown-submenu > .dropdown-item::after {
